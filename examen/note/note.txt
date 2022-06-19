@@ -1,0 +1,31 @@
+<html>
+<head>
+</head>
+<body>
+    <input type="checkbox" id="checkbox">Sluit / Open
+    <br>
+    <br>
+    <input type="text" id="input">
+    <br>
+    <br>
+    <button id="button">Test</button>
+
+    <script>
+        (function() {
+            var Checkbox = document.getElementById('checkbox');
+            var Input = document.getElementById('input');
+            var Button = document.getElementById('button');
+
+            Checkbox.addEventListener('click', function(){
+                if (this.checked) {
+                    Input.disabled = 'false';
+                    Button.disabled = 'false';
+                } else {
+                    Input.disabled = '';
+                    Button.disabled= '';
+                }
+            });
+        })();
+    </script>
+</body>
+</html>
