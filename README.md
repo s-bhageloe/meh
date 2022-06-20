@@ -1,10 +1,11 @@
 # meh
 wedstrijdgegevens edit fixen
 school toevoegen bij aanmelden create en in table showen
-Sluiten:
+
+                                                Sluiten:
 Het scherm sluiten wordt gebruikt om de aanmelding voor een toernooi te sluiten. Daarmee worden de aangemelde spelers in eerste ronde en mogelijk de tweede ronde van het toernooi geplaatst.
 Dit plaatsen gebeurt op een door de applicatie willekeurige (random) manier.
-
+                                    
 Als het aantal spelers in de eerste ronde geen macht van twee is, worden in de eerste ronde minder spelers geplaatst.
 Het aantal speler wordt aangevuld met dummyspelers tot het aantal speler in de eerste ronde wel een macht van twee is. Daardoor is in dat geval het aantal spelers in de tweede en verdere rondes 
 wel altijd een macht van twee.
