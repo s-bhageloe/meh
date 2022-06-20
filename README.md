@@ -14,3 +14,14 @@ Na het sluiten van de aanmelding kunnen de functies Handmatig en Importeren en A
 Voor het vastleggen van de wedstrijden in de eerste ronde zijn de volgende gegevens nodig.
 - Het toernooi
 - De twee spelers die tegen elkaar uitkomen
+
+            Indelen volgende ronde (wedstrijden)
+In het scherm Indelen volgende ronde worden de wuinnaars van een ronde in de volgende ronde geplaatst. De winnaar van de eerste wedstrijd uit de huidige ronde speelt tegen de wiunnaar van de tweede wedstrijd uit de huidige ronde. Op die manier zijn de winnaars uit wedstrijd 3 en 4, 5 en 6 etc. elkaars tegenstander. 
+
+Deze functie mag alleen worden toegepast als alle winnaars in een ronde bekend zijn. Nadat de winnaars in de volgende ronde zijn geplaatst, mag de uitslag van de ronde  niet meer gewijzigd worden. 
+
+Voor het indelen van de spelers in de volgende ronde zijn de volgende gegevens nodig.
+
+- Het toernooi
+- De huidige ronde van het toernooi
+- De winnaars in de huidige ronde
