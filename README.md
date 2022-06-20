@@ -26,3 +26,13 @@ Voor het indelen van de spelers in de volgende ronde zijn de volgende gegevens n
 - Het toernooi
 - De huidige ronde van het toernooi
 - De winnaars in de huidige ronde
+
+                                                                      Uitslagen beheren
+Het scherm Uitslagen beheren wordt gebruikt om de uitslagen van de wedstrijden in te voeren en de winnaars vast te leggen. Volgens het onderstaande voorbeeld kan voor elke partij de uitslag ingevoerd en de winnaar aangevinkt worden. De rondes staan van links naar rechts naast elkaar. De wedstrijden staan per ronde onder elkaar.
+
+Voor het vastleggen van de wedstrijden zijn de volgende gegevens nodig.
+- Het toernooi
+- De ronde waarin de wedstrijd wordt gespeeld
+- De twee spelers die tegen elkaar uitkomen
+- De uitslag
+- Welke speler de winnaar is
